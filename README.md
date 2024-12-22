@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates a ConcurrentModificationException and its solution.  The bug arises from modifying an ArrayList while iterating over it using a for-each loop. The solution shows how to avoid this exception by using an iterator.
